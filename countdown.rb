@@ -1,4 +1,4 @@
-def countdown #just placed here
+def countdown(number) #just placed here
 
 number = 10
 
